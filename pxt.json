@@ -1,5 +1,5 @@
 {
-    "name": "Demo",
+    "name": "microbit-template-repo",
     "description": "",
     "dependencies": {
         "core": "*",
